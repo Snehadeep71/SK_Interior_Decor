@@ -1,2 +1,2 @@
-# SK_Interior_Decor
-This is the first edit for the sk interior decor 
+# wallpaper2
+this is the second host for the wallpaper 
